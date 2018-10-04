@@ -1,3 +1,4 @@
+
 console.log ('YAY')
 
 
@@ -16,4 +17,4 @@ function getDay() {
 
 var text = 'Is it Friday'
 
-document.querySelector('h1').innerHTML = text
+document.querySelector('h1').innerHTML = text 
